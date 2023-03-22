@@ -151,4 +151,4 @@ for (i in 1:m) {
 end_time <- proc.time()-begin_time
 
 gm_burn <- keep_gm[1001:5000, ]
-apply(gm_burn,2,mean)
+apply(gm_burn,2,mean) 
