@@ -7,4 +7,4 @@ The R code for the paper "Sequential weighted uniform design"
 
 3. "discrepancy.R" includes the calculation of the (weighted) discrepancies, CD, WD, WCD and WWD. 
 
-4. "OTL Circuit", "Borehole" and "Wing weight" includes the design points (with the filenames "xxx.txt"), esitimation of weight vector (with the filenames "xxx_SSZGP.R") and prediction comparison corresponding to the section 4.2 in the paper.  
+4. "OTL Circuit", "Borehole" and "Wing weight" includes the design points (with the filenames "xxx.txt"), esitimation of weight vector (with the filenames "xxx_SSGP.R") and prediction comparison corresponding to the section 4.2 in the paper.  
