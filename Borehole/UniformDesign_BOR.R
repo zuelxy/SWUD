@@ -56,4 +56,4 @@ bore_wwd_gp <- bore_score(bore_wwd, bore_res_wwd, borepoint, boreout)
 c(bore_cd_gp$rmspe, bore_wcd_gp$rmspe, bore_wd_gp$rmspe, bore_wwd_gp$rmspe)
 ## [1] 4.727388 4.452884 4.060282 4.055642
 c(bore_cd_gp$mar, bore_wcd_gp$mar, bore_wd_gp$mar,  bore_wwd_gp$mar)
-## [1] 1.786346 1.668210 1.779171 1.588308
+## [1] 1.786346 1.668210 1.779171 1.588308 
